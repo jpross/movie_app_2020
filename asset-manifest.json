@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/jpross/movie_app_2020.git/static/css/main.b4892c70.chunk.css",
+    "main.js": "/jpross/movie_app_2020.git/static/js/main.e4587038.chunk.js",
+    "main.js.map": "/jpross/movie_app_2020.git/static/js/main.e4587038.chunk.js.map",
+    "runtime-main.js": "/jpross/movie_app_2020.git/static/js/runtime-main.bbdb94f4.js",
+    "runtime-main.js.map": "/jpross/movie_app_2020.git/static/js/runtime-main.bbdb94f4.js.map",
+    "static/js/2.cdc3c92b.chunk.js": "/jpross/movie_app_2020.git/static/js/2.cdc3c92b.chunk.js",
+    "static/js/2.cdc3c92b.chunk.js.map": "/jpross/movie_app_2020.git/static/js/2.cdc3c92b.chunk.js.map",
+    "index.html": "/jpross/movie_app_2020.git/index.html",
+    "precache-manifest.7d3a725c9fd11873a1c0833183d6c828.js": "/jpross/movie_app_2020.git/precache-manifest.7d3a725c9fd11873a1c0833183d6c828.js",
+    "service-worker.js": "/jpross/movie_app_2020.git/service-worker.js",
+    "static/css/main.b4892c70.chunk.css.map": "/jpross/movie_app_2020.git/static/css/main.b4892c70.chunk.css.map",
+    "static/js/2.cdc3c92b.chunk.js.LICENSE.txt": "/jpross/movie_app_2020.git/static/js/2.cdc3c92b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bbdb94f4.js",
+    "static/js/2.cdc3c92b.chunk.js",
+    "static/css/main.b4892c70.chunk.css",
+    "static/js/main.e4587038.chunk.js"
+  ]
+}
